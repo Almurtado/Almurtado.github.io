@@ -1,0 +1,23 @@
+.jumbotron img {
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 1.5);
+}
+
+.jumbotron h1, .jumbotron p {
+	text-shadow: 1px 1px 10px rgba(0, 0, 0, 1.5);
+}
+
+.jumbotron{
+	padding-top: 6rem;
+	background-image: url('projects/4.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -1200px;
+}
+
+#projects{
+	background-color: #e2edff;
+}
+
+section{
+	padding-top: 5rem;
+}
